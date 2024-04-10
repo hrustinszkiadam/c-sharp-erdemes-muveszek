@@ -1,0 +1,162 @@
+Deák Krisztina,2007,Balázs Béla-díjas
+Forgács Péter,2007,Balázs Béla-díjas
+Gulyás Gyula,2013,Balázs Béla-díjas
+Gulyás János Péter,2013,Balázs Béla-díjas
+Kisfaludy András,2013,Balázs Béla-díjas
+Kerekes Gábor,2009,Balázs Béla-díjas
+Medvigy Gábor,2009,Balázs Béla-díjas
+Baricz Katalin,2007,Balogh Rudolf-díjas
+Szilágyi Lenke,2008,Balogh Rudolf-díjas
+Csomay Zsófia,2008,Ybl Miklós-díjas
+Selmeczi György,2012,Erkel Ferenc-díjas
+Hauser Beáta,2011,Ferenczy Noémi-díjas
+Kókay Krisztina,2007,Ferenczy Noémi-díjas
+Rónai Éva,2012,Ferenczy Noémi-díjas
+Sárkány Győző,2012,Ferenczy Noémi-díjas
+Gáyor Tibor,2009,
+Gyémánt László,2009,
+Barta Dóra,2007,Harangozó Gyula-díjas
+Goda Gábor,2008,Harangozó Gyula-díjas
+Kalmár Tibor,2007,Jászai Mari-díjas
+Mohácsi János,2008,Jászai Mari-díjas
+Bajcsay Mária,2013,Jászai Mari-díjas
+Kentaur (Erkel László),2013,Jászai Mari-díjas
+Tordai Hajnal,2012,Jászai Mari-díjas
+Császár Angéla,2011,Jászai Mari-díjas
+Gyöngyössy Katalin,2011,Jászai Mari-díjas
+Ráckevei Anna,2011,Jászai Mari-díjas
+Mácsai Pál,2008,Jászai Mari-díjas
+Bogdán Zsolt,2012,Jászai Mari-díjas
+Csikos Sándor,2012,Jászai Mari-díjas
+Csuja Imre,2010,Jászai Mari-díjas
+Csurka László,2013,Jászai Mari-díjas
+Fekete Ernő,2010,Jászai Mari-díjas
+Harsányi Gábor,2011,Jászai Mari-díjas
+Hirtling István,2012,Jászai Mari-díjas
+Kerekes Éva,2009,Jászai Mari-díjas
+Körtvélyessy Zsolt,2013,Jászai Mari-díjas
+Lorán Lenke,2010,Jászai Mari-díjas
+Meszléry Judit,2013,Jászai Mari-díjas
+Mihályi Győző,2007,Jászai Mari-díjas
+Nagy Anna,2013,Jászai Mari-díjas
+Nemcsák Károly,2012,Jászai Mari-díjas
+Sunyovszky Szilvia,2013,Jászai Mari-díjas
+Szarvas József,2012,Jászai Mari-díjas
+Szervét Tibor,2010,Jászai Mari-díjas
+Szűcs Nelli,2013,Jászai Mari-díjas
+Takács Katalin,2008,Jászai Mari-díjas
+Tordai Teri,2012,Jászai Mari-díjas
+Tóth Ildikó,2009,Jászai Mari-díjas
+Trill Zsolt,2012,Jászai Mari-díjas
+Venczel Vera,2010,Jászai Mari-díjas
+Voith Ági,2013,Jászai Mari-díjas
+Korcsmáros György,2010,Jászai Mari-díjas
+Kalocsai Zsuzsa,2008,Jászai Mari-díjas
+Halasi Imre,2010,Jászai Mari-díjas
+Keller András,2012,Liszt Ferenc-díjas
+Gál Tamás,2008,Liszt Ferenc-díjas
+Kesselyák Gergely,2012,Liszt Ferenc-díjas
+Kovács László,2007,Liszt Ferenc-díjas
+Dresch Mihály,2011,Liszt Ferenc-díjas
+Geiger György,2000,Liszt Ferenc-díjas
+Szecsődi Ferenc,2009,Liszt Ferenc-díjas
+Erdei Péter,2010,Liszt Ferenc-díjas
+Thész Gabriella,2010,Liszt Ferenc-díjas
+Pitti Katalin,2011,Liszt Ferenc-díjas
+Virágh András,2012,Liszt Ferenc-díjas
+Tillai Aurél Ede,2013,Liszt Ferenc-díjas
+László Attila,2010,Liszt Ferenc-díjas
+Bazsinka Zsuzsanna,2009,
+Galántai György,2007,Munkácsy Mihály-díjas
+Györfi Sándor,2013,Munkácsy Mihály-díjas
+Lugossy Mária,2012,Munkácsy Mihály-díjas
+Molnár Kálmán,2013,Munkácsy Mihály-díjas
+Stefanovits Péter,2011,Munkácsy Mihály-díjas
+Roskó Gábor,2008,Munkácsy Mihály-díjas
+Haász István,2010,Munkácsy Mihály-díjas
+Szikora Tamás,2010,Munkácsy Mihály-díjas
+Jávori Ferenc,2009,
+id. Nagy Zoltán,2003,
+Kiss János,2005,
+Popova Aleszja,2003,
+Solymosi Tamás,2006,
+Both András,2011,
+Radnóti Zsuzsa,2003,
+Szegő György,2002,
+Ef Zámbó István,2000,
+Földi Péter,2001,
+Kárpáti Tamás,2000,
+Kisléghi Nagy Ádám,2011,
+Pál Lajos,2002,
+Pinczehelyi Sándor,2004,
+Ujházi Péter,2004,
+Záborszky Gábor,2006,
+Almási Tamás,2005,
+Enyedi Ildikó,2000,
+Janisch Attila,2006,
+Molnár György,2003,
+Szász János,2001,
+Benkő Imre,2004,
+Szebeni András,2006,
+Banga Ferenc,2003,
+Orosz István,2005,
+Ligeti András,2002,
+Fábry Sándor,2002,
+Szombathy Gyula,2009,Jászai Mari-díjas
+Párkai István,2001,
+Péreli Zsuzsa,2002,
+Kovács Péter,2000,
+Lovas Ilona,2005,
+Türk Péter,2010,
+Roboz Ágnes,2008,
+L. Kecskés András,2011,
+Frankó Tünde,2006,
+Végh Krisztina,2001,
+Bándi János,2010,
+Berkes János,2007,
+Kertesi Ingrid,2001,
+Lukács Gyöngyi,2003,
+Sümegi Eszter,2010,
+Kovalik Balázs,2000,
+Máthé Tibor,2001,
+Zádori Ferenc,2004,
+Málnay Levente,2005,
+Meczner János,2005,
+Tompa Gábor,2002,
+Szirtes Ági,2000,
+Bács Ferenc,2001,
+Beregi Péter,2010,
+Börcsök Enikő,2005,
+Bubik István,2000,
+Csűrös Karola,2006,
+Dózsa László,2011,
+Gálffi László,2003,
+Heller Tamás,2006,
+Kállai Bori,2004,
+Kovács Lajos,2004,
+Kubik Anna,2002,
+Máté Gábor,2003,
+Nagy-Kálózy Eszter,2000,
+Oszvald Marika,2002,
+Pap Vera,2001,
+Pásztor Erzsi,2006,
+Piros Ildikó,2003,
+Senkálszky Endre,2011,
+Szacsvay László,2001,
+Gaál Tamás,2006,
+Bozsik Yvette,2001,
+Juronics Tamás,2005,
+Ladányi Andrea,2004,
+Medveczky Ilona,2004,
+Nagy József,2011,
+Román Sándor,2006,
+Zarnóczai Gizella,2002,
+Zsuráfszky Zoltán,2002,
+Makláry László,2005,
+Dés László,2003,
+Kathy-Horváth Lajos,2011,
+Sáry László,2000,
+Szakcsi Lakatos Béla,2002,
+Bátori Éva,2005,
+Fokanov Anatolij,2004,
+Harangozó Gyula,2004,
